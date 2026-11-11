@@ -213,15 +213,6 @@
   paper-title: "Hominin brain size increase has emerged from within-species encephalization"
   paper-venue: "Püschel, Nicholson, Baker, Barton &amp; Venditti · <em>PNAS</em>, 2024"
   paper-url: https://www.thomaspuschel.com/publication/pnas_2024/
-  outlet: "The Jerusalem Post"
-  title: "Evolutionary human brain growth spurt debunked in new study"
-  published: "2025-01-06"
-  href: https://jpost.com/science/science-around-the-world/article-836240
-
-- paper: pnas_2024
-  paper-title: "Hominin brain size increase has emerged from within-species encephalization"
-  paper-venue: "Püschel, Nicholson, Baker, Barton &amp; Venditti · <em>PNAS</em>, 2024"
-  paper-url: https://www.thomaspuschel.com/publication/pnas_2024/
   outlet: "Big Think"
   title: "How early human brains expanded over time"
   published: "2025-02-15"
@@ -235,6 +226,15 @@
   title: "Human Brains Grew Steadily Over Millions Of Years Rather Than Showing Sudden Leaps"
   published: "2024-11-28"
   href: https://www.iflscience.com/human-brains-grew-steadily-over-millions-of-years-rather-than-showing-sudden-leaps-76988
+
+- paper: pnas_2024
+  paper-title: "Hominin brain size increase has emerged from within-species encephalization"
+  paper-venue: "Püschel, Nicholson, Baker, Barton &amp; Venditti · <em>PNAS</em>, 2024"
+  paper-url: https://www.thomaspuschel.com/publication/pnas_2024/
+  outlet: "Neuroscience News"
+  title: "Human Brains Evolved Gradually, Not in Sudden Leaps"
+  published: "2024-11-29"
+  href: https://neurosciencenews.com/evolution-brain-size-28153/
 
 - paper: pnas_2024
   paper-title: "Hominin brain size increase has emerged from within-species encephalization"
