@@ -13,6 +13,13 @@ pub-type: Journal article
 doi: 10.1073/pnas.2423833122
 featured: true
 image: featured.jpg
+listing:
+  id: media
+  contents: ../../media.yml
+  template: ../../media-paper.ejs
+  sort: false
+  include:
+    paper: "pnas_2025"
 ---
 
 [PDF](/files/pdf/avaria-llautureo.pdf){.btn .btn-sm .btn-outline-primary .me-1 .mb-1} [Online version](https://doi.org/10.1073/pnas.2423833122){.btn .btn-sm .btn-outline-primary .me-1 .mb-1}
@@ -26,6 +33,11 @@ image: featured.jpg
 ## Abstract
 
 One of the most influential hypotheses about primate evolution postulates that their origin, radiation, and major dispersals were associated with exceptionally warm conditions in tropical forests at northern latitudes (henceforth the warm tropical forest hypothesis). However, this notion has proven difficult to test given the overall uncertainty about both geographic locations and paleoclimates of ancestral species. By the resolution of both challenges, we reveal that early primates dispersed and radiated in higher latitudes, through diverse climates, including cold, arid, and temperate conditions. Contrary to expectations of the warm tropical forest hypothesis, warmer global temperatures had no effect on dispersal distances or the speciation rate. Rather, the amount of change in local temperature and precipitation substantially predicted geographic and species diversity. Our results suggest that nontropical, changeable environments exerted strong selective pressures on primates with higher dispersal ability – promoting the primate radiation and their subsequent colonization of tropical climates millions of years after their origin.
+
+## Media coverage
+
+::: {#media}
+:::
 
 ::: {.callout-note collapse="true" appearance="simple" icon=false}
 ## Cite (BibTeX)

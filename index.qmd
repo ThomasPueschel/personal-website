@@ -169,7 +169,7 @@ My research is carried out with the [Comparative Evolutionary Anthropology (CEA)
 ::: {#talks}
 :::
 
-[All talks →](talk/index.qmd){.btn .btn-outline-secondary .btn-sm}
+[Press coverage →](talk/index.qmd#in-the-media){.btn .btn-outline-secondary .btn-sm} [All talks →](talk/index.qmd){.btn .btn-outline-secondary .btn-sm}
 
 ## Gallery {#gallery .section-title}
 <hr class="section-rule">

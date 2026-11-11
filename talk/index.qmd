@@ -1,12 +1,29 @@
 ---
 title: "Talks and Media"
 listing:
-  contents: "*/index.qmd"
-  type: default
-  sort: "date desc"
-  fields: [image, date, title, description]
-  date-format: "D MMMM YYYY"
-  image-height: 110px
+  - id: media
+    contents: ../media.yml
+    template: ../media.ejs
+    sort: false
+  - id: talks
+    contents: "*/index.qmd"
+    type: default
+    sort: "date desc"
+    fields: [image, date, title, description]
+    date-format: "D MMMM YYYY"
+    image-height: 110px
 ---
 
 <hr class="section-rule">
+
+## In the media {#in-the-media .section-title}
+
+Selected press coverage of recent papers.
+
+::: {#media}
+:::
+
+## Talks {#talks-list .section-title}
+
+::: {#talks}
+:::

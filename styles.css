@@ -292,3 +292,14 @@ h2.section-title { margin-top: 3rem; border-bottom: none; padding-bottom: 0; }
 .quarto-title .subtitle { font-size: 1.05rem; color: var(--text); }
 .quarto-title .description { color: var(--muted); }
 .quarto-listing .listing-subtitle, .quarto-listing .card-subtitle { font-size: 0.9rem; color: var(--muted); }
+
+/* Press coverage */
+.media-group { margin-bottom: 1.8rem; }
+.media-paper a { font-weight: 700; color: var(--navy); text-decoration: none; font-size: 1.05rem; }
+.media-paper a:hover { color: var(--blue); text-decoration: underline; }
+.media-venue { font-size: 0.88rem; color: var(--muted); margin-bottom: 0.4rem; }
+.media-items { list-style: none; padding-left: 0; margin: 0; border-left: 3px solid var(--accent); }
+.media-items li { padding: 0.3rem 0 0.3rem 1rem; line-height: 1.45; }
+.media-outlet { font-weight: 700; color: var(--blue); margin-right: 0.4rem; }
+.media-outlet::after { content: " ·"; color: var(--muted); font-weight: 400; }
+.media-date { font-size: 0.82rem; color: var(--muted); margin-left: 0.4rem; white-space: nowrap; }
