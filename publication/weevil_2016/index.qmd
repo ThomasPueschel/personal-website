@@ -1,0 +1,34 @@
+---
+title: 'Ecological morphology of the sugar beet weevil Croatian populations: Evaluating the role of environmental conditions on body shape'
+subtitle: Darija Lemic, Hugo A. Benítez, Thomas A. Püschel, Helena Virić Gašparić, Mihaela Šatvar, Renata Bažok
+date: '2016-01-01'
+description: In *Zoologischer Anzeiger*, 260 25-32 (2016)
+categories:
+- Journal article
+- morphometrics
+- insects
+pub-type: Journal article
+doi: 10.1016/j.jcz.2015.11.003
+---
+
+[Online version](https://doi.org/10.1016/j.jcz.2015.11.003){.btn .btn-sm .btn-outline-primary .me-1 .mb-1}
+
+```{=html}
+<div class="pub-altmetric"><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.jcz.2015.11.003" data-hide-no-mentions="true" class="altmetric-embed"></div></div>
+```
+
+::: {.callout-note collapse="true" appearance="simple" icon=false}
+## Cite (BibTeX)
+
+```bibtex
+@article{lemic_2016,
+	title = {Ecological morphology of the sugar beet weevil Croatian populations: Evaluating the role of environmental conditions on body shape},
+	author = {Lemic, Darija and Benítez, Hugo A. and Püschel, Thomas A. and Gašparić, Helena Virić and Šatvar, Mihaela and Bažok, Renata},
+	journal = {Zoologischer Anzeiger},
+	year = {2016},
+	volume = {260},
+	pages = {25-32},
+	doi = {10.1016/j.jcz.2015.11.003},
+}
+```
+:::

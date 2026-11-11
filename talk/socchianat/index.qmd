@@ -1,0 +1,26 @@
+---
+title: Paleontología virtual un conjunto de herramientas emergente para análisis morfo-funcionales en contextos evolutivos
+date: '2020-10-06'
+description: Plenary speaker at the XIII Jornada Chilena de Anatomía
+categories:
+- comparative methods
+- fea
+- machine-learning
+- morphometrics
+- new tools
+- post-cranium
+- primate morphology
+image: featured.jpg
+---
+
+::: {.pub-venue}
+Santiago de Chile
+:::
+
+[PDF](/files/pdf/XII_SOC_ANATOMIAv2.pdf){.btn .btn-sm .btn-outline-primary .me-1 .mb-1} [Video](https://youtu.be/F6gHTUM5Ahc){.btn .btn-sm .btn-outline-primary .me-1 .mb-1} [Event](http://www.sociedadchilenadeanatomia.cl/){.btn .btn-sm .btn-outline-primary .me-1 .mb-1}
+
+![](featured.jpg){.pub-figure .lightbox}
+
+## Abstract
+
+THOMAS A. PÜSCHEL

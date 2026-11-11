@@ -1,0 +1,18 @@
+---
+title: "Publications"
+listing:
+  contents: "*/index.qmd"
+  type: default
+  sort: "date desc"
+  categories: true
+  fields: [image, date, title, subtitle, description]
+  date-format: "MMMM YYYY"
+  page-size: 100
+  filter-ui: true
+  sort-ui: false
+  image-height: 110px
+---
+
+<hr class="section-rule">
+
+*Filter by type or topic using the categories on the right. A full list can also be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=v8oXbxgAAAAJ); work from the group is on the [CEA lab website](https://cea-lab.org/publications.html).*

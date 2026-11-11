@@ -1,0 +1,41 @@
+---
+title: Multisite analysis of infant corpse carrying in *Pan* reveals maternal attachment and death context as explanations of carrying duration
+subtitle: Reece Hammond, Thomas A. Püschel
+date: '2026-09-16'
+description: In *Biology Letters*, 22 (9) 20260371 (2026)
+categories:
+- Journal article
+- primates
+- chimpanzees
+- behaviour
+- comparative methods
+pub-type: Journal article
+doi: 10.1098/rsbl.2026.0371
+---
+
+[Online version](https://doi.org/10.1098/rsbl.2026.0371){.btn .btn-sm .btn-outline-primary .me-1 .mb-1}
+
+```{=html}
+<div class="pub-altmetric"><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsbl.2026.0371" data-hide-no-mentions="true" class="altmetric-embed"></div></div>
+```
+
+## Abstract
+
+Understanding the mechanisms underlying non-human primate death-related behaviours is essential for reconstructing the evolution of human responses to death and death-related cognition. Infant corpse carrying is widely observed in chimpanzees and bonobos, yet its underlying mechanisms remain debated. Analysing 83 published cases across multiple sites using Bayesian mixed-effects models, we found strong support that infant corpse carrying duration varies with cause of death, infant age at death and site-level interbirth intervals. A less robust association of temperature with carrying duration was also identified. These results suggest that variation in infant corpse carrying duration is parsimoniously accounted for by the persistence of maternal behavioural systems being modulated by social carrying risk, dyadic bond strength, life-history context and decomposition rates. Crucially, none of the patterns observed in infant corpse carrying duration necessitate mothers recognizing death as an irreversible biological state, though they do not necessarily preclude such recognition. Given the close evolutionary relationship of Pan and Homo, this may indicate that the complex cognitive frameworks required to recognize death's finality emerged in the hominin lineage after divergence from the Pan–Homo last common ancestor.
+
+::: {.callout-note collapse="true" appearance="simple" icon=false}
+## Cite (BibTeX)
+
+```bibtex
+@article{hammond_2026,
+	title = {Multisite analysis of infant corpse carrying in Panreveals maternal attachment and death context as explanations of carrying duration},
+	author = {Hammond, Reece and Püschel, Thomas A.},
+	journal = {Biology Letters},
+	year = {2026},
+	volume = {22},
+	number = {9},
+	pages = {20260371},
+	doi = {10.1098/rsbl.2026.0371},
+}
+```
+:::

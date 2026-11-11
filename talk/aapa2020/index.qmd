@@ -1,0 +1,28 @@
+---
+title: Elucidating Paralouatta’s semi-terrestriality using the virtual morpho-functional toolbox
+date: '2019-04-10'
+description: AAPA 2020 podium presentation
+categories:
+- comparative methods
+- fea
+- machine-learning
+- morphometrics
+- new tools
+- post-cranium
+- primate morphology
+image: featured.jpg
+---
+
+::: {.pub-venue}
+AAPA 2020 · Los Angeles
+:::
+
+[PDF](/files/pdf/AAPA_2020.pdf){.btn .btn-sm .btn-outline-primary .me-1 .mb-1} [Video](https://youtu.be/xrUag96oTrs){.btn .btn-sm .btn-outline-primary .me-1 .mb-1} [Event](https://youtu.be/xrUag96oTrs){.btn .btn-sm .btn-outline-primary .me-1 .mb-1}
+
+![](featured.jpg){.pub-figure .lightbox}
+
+## Abstract
+
+THOMAS A. PÜSCHEL, JORDI MARCÉ-NOGUÉ, JUSTIN GLADMAN, BIREN A. PATEL, SERGIO ALMÉCIJA and WILLIAM I. SELLERS
+
+Find the paper [here](/publication/getting/)

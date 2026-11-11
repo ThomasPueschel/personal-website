@@ -1,0 +1,26 @@
+---
+title: Primate evolutionary morphology Assessing ecomorphological questions in extant and extinct anthropoids
+date: '2021-01-26'
+description: Talk at the Oxford Palaeoclub about how to assess ecomorphological questions using the virtual morpho-functional toolkit
+categories:
+- comparative methods
+- fea
+- machine-learning
+- morphometrics
+- new tools
+- post-cranium
+- primate morphology
+image: featured.jpg
+---
+
+::: {.pub-venue}
+Oxford
+:::
+
+[PDF](/files/pdf/paleoclub_26jan.pdf){.btn .btn-sm .btn-outline-primary .me-1 .mb-1} [Event](https://palaeobiology.web.ox.ac.uk/events){.btn .btn-sm .btn-outline-primary .me-1 .mb-1}
+
+![](featured.jpg){.pub-figure .lightbox}
+
+## Abstract
+
+THOMAS A. PÜSCHEL

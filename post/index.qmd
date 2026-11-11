@@ -1,0 +1,12 @@
+---
+title: "Posts"
+listing:
+  contents: "*/index.qmd"
+  type: default
+  sort: "date desc"
+  categories: true
+  fields: [date, title, author, categories]
+  date-format: "D MMMM YYYY"
+---
+
+<hr class="section-rule">

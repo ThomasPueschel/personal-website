@@ -1,0 +1,73 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "**/*.qmd"
+  resources:
+    - "files/**"
+    - "img/**"
+    - "gallery/**"
+    - "rmarkdown-libs/**"
+    - "post/*_files/**"
+    - "post/*.csv"
+    - "post/*.RData"
+    - "post/*.Rdata"
+    - "post/*.png"
+    - "post/*.jpg"
+
+website:
+  title: "Thomas A. Püschel"
+  site-url: https://www.thomaspuschel.com
+  description: "Thomas A. Püschel, Wendy James Associate Professor in Evolutionary Anthropology at the University of Oxford: primate and human evolution, phylogenetic comparative methods, 3D morphometrics and biomechanics."
+  favicon: img/icon.png
+  open-graph: true
+  twitter-card: true
+  search: true
+
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Publications"
+        href: publication/index.qmd
+      - text: "Research"
+        href: project/index.qmd
+      - text: "Posts"
+        href: post/index.qmd
+      - text: "Talks and Media"
+        href: talk/index.qmd
+      - text: "CV"
+        href: files/CV_TP_2pages.pdf
+        target: _blank
+      - text: "CEA Lab"
+        href: https://cea-lab.org
+        target: _blank
+    right:
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?hl=en&user=v8oXbxgAAAAJ
+        aria-label: Google Scholar
+      - icon: github
+        href: https://github.com/ThomasPueschel
+        aria-label: GitHub
+      - icon: twitter
+        href: https://twitter.com/ThomasPuschel
+        aria-label: Twitter
+
+  page-footer:
+    left: "© 2026 Thomas A. Püschel · University of Oxford"
+    center: "[Comparative Evolutionary Anthropology (CEA) group](https://cea-lab.org)"
+    right:
+      - icon: envelope
+        href: mailto:thomas.puschel@anthro.ox.ac.uk
+        aria-label: Email
+
+format:
+  html:
+    theme:
+      light: [flatly, styles.css]
+    toc: false
+    anchor-sections: false
+    link-external-icon: false
+    link-external-newwindow: true
+    lightbox: auto

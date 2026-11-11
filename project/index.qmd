@@ -1,0 +1,14 @@
+---
+title: "Research"
+listing:
+  contents: "*/index.qmd"
+  type: grid
+  grid-columns: 3
+  sort: "date desc"
+  fields: [image, title, description]
+  image-height: 180px
+---
+
+<hr class="section-rule">
+
+My research is carried out with the [Comparative Evolutionary Anthropology (CEA) group](https://cea-lab.org) at the University of Oxford; the lab website describes our current themes, people and opportunities.

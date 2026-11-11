@@ -1,0 +1,28 @@
+---
+title: Virtual ecomorphology
+date: '2019-05-05'
+description: I Congreso Iberoamericano de Morfometría Geométrica
+categories:
+- comparative methods
+- fea
+- machine-learning
+- mandible
+- morphometrics
+- new tools
+- post-cranium
+- primate morphology
+- skull
+image: featured.png
+---
+
+::: {.pub-venue}
+I Congreso Iberoamericano de Morfometría Geométrica · U Catolica Maule
+:::
+
+[PDF](/files/pdf/virtual_ecomorphology.pdf){.btn .btn-sm .btn-outline-primary .me-1 .mb-1} [Video](https://youtu.be/o6cP9PUm5WM){.btn .btn-sm .btn-outline-primary .me-1 .mb-1} [Event](https://www.morphoshape.com/meetings){.btn .btn-sm .btn-outline-primary .me-1 .mb-1}
+
+![](featured.png){.pub-figure .lightbox}
+
+## Abstract
+
+Talk on ecomorphology and how to combine geometric morphometrics, biomechanics and PCMs

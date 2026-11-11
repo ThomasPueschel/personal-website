@@ -1,0 +1,41 @@
+---
+title: 'The distal humerus of Pliobates cataloniae (Primates: Pliopithecoidea): functional and locomotor inferences'
+subtitle: Julia Arias-Martorell, Ambra Figueroa-Torrejón, Thomas A. Püschel, Georgina Raventós-Izard, Alessandro Urciuoli, Jesús Gamarra, Sergio Almécija, David M. Alba
+date: '2026-07-17'
+description: In *Journal of Mammalian Evolution*, 33 (3) 36 (2026)
+categories:
+- Journal article
+- primates
+- post-cranium
+- morphometrics
+- miocene
+pub-type: Journal article
+doi: 10.1007/s10914-026-09828-0
+---
+
+[Online version](https://doi.org/10.1007/s10914-026-09828-0){.btn .btn-sm .btn-outline-primary .me-1 .mb-1}
+
+```{=html}
+<div class="pub-altmetric"><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s10914-026-09828-0" data-hide-no-mentions="true" class="altmetric-embed"></div></div>
+```
+
+## Abstract
+
+The small-bodied stem catarrhine *Pliobates cataloniae*(Pliopithecoidea: Crouzeliidae), from the Miocene (11.6 Ma) of the Vallès-Penedès Basin (NE Iberian Peninsula), combines catarrhine symplesiomorphies and several crown hominoid-like features that are interpreted as convergent. The most obvious modern ape-like traits of *Pliobates*are found in the forelimb, particularly in the wrist and elbow joints. In the humerus, these include the lack of an entepicondylar foramen, a well-developed zona conoidea, and a globular capitulum. To quantitatively assess the degree of convergence between *Pliobates*and extant hominoids, we compare their distal humeral shape with a comparative sample including extant and extinct anthropoid primates. Shape is analyzed using landmark-based, 3D geometric morphometric techniques, while the locomotor repertoire of *Pliobates*and other extinct species is inferred using two-block partial least squares regression between shape and locomotor percentages. Our results indicate that the locomotor repertoire of *Pliobates*would have been dominated by orthograde behaviors such as climbing/clambering and suspension, in agreement with its ape-like humeroradial joint (which is functionally related to enhanced prono-supination). Nevertheless, the humeroulnar joint of *Pliobates*lacks the stabilization mechanisms that are characteristic of extant hominoids and necessary for frequently engaging in suspensory behaviors. We conclude that, while suspension was probably part of the locomotor repertoire of *Pliobates*, this taxon did not perform the acrobatic suspensory behaviors characteristic of the similarly-sized, extant hylobatids. Consequently, we interpret the ape-like humeroradial joint of *Pliobates*as an adaptation for climbing rather than modern ape-like suspensory behaviors.
+
+::: {.callout-note collapse="true" appearance="simple" icon=false}
+## Cite (BibTeX)
+
+```bibtex
+@article{ariasmartorell_2026,
+	title = {The distal humerus of Pliobates cataloniae (Primates: Pliopithecoidea): functional and locomotor inferences},
+	author = {Arias-Martorell, Julia and Figueroa-Torrejón, Ambra and Püschel, Thomas A. and Raventós-Izard, Georgina and Urciuoli, Alessandro and Gamarra, Jesús and Almécija, Sergio and Alba, David M.},
+	journal = {Journal of Mammalian Evolution},
+	year = {2026},
+	volume = {33},
+	number = {3},
+	pages = {36},
+	doi = {10.1007/s10914-026-09828-0},
+}
+```
+:::

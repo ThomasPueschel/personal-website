@@ -1,0 +1,12 @@
+---
+title: "Talks and Media"
+listing:
+  contents: "*/index.qmd"
+  type: default
+  sort: "date desc"
+  fields: [image, date, title, description]
+  date-format: "D MMMM YYYY"
+  image-height: 110px
+---
+
+<hr class="section-rule">

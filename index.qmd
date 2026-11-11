@@ -1,0 +1,215 @@
+---
+title: ""
+page-layout: full
+listing:
+  - id: featured
+    contents: "publication/*/index.qmd"
+    include:
+      featured: true
+    type: grid
+    grid-columns: 3
+    sort: "date desc"
+    fields: [image, title, subtitle, description]
+    image-height: 170px
+  - id: recent
+    contents: "publication/*/index.qmd"
+    type: default
+    sort: "date desc"
+    max-items: 6
+    page-size: 100
+    fields: [image, date, title, subtitle, description]
+    date-format: "MMMM YYYY"
+    image-height: 100px
+  - id: projects
+    contents: "project/*/index.qmd"
+    type: grid
+    grid-columns: 4
+    sort: "date desc"
+    fields: [image, title]
+    image-height: 140px
+  - id: posts
+    contents: "post/*/index.qmd"
+    type: default
+    sort: "date desc"
+    max-items: 5
+    fields: [date, title, categories]
+    date-format: "D MMMM YYYY"
+  - id: talks
+    contents: "talk/*/index.qmd"
+    type: default
+    sort: "date desc"
+    max-items: 5
+    fields: [image, date, title, description]
+    date-format: "D MMMM YYYY"
+    image-height: 100px
+---
+
+```{=html}
+<div class="hero container-fluid px-0">
+  <div class="row align-items-start">
+    <div class="col-md-4 text-center profile">
+      <img src="img/avatar.jpg" alt="Thomas A. Püschel" class="profile-photo">
+      <h1>Thomas A. Püschel</h1>
+      <div class="profile-role">Wendy James Associate Professor in Evolutionary Anthropology</div>
+      <div class="profile-org"><a href="https://www.anthro.ox.ac.uk/" target="_blank">School of Anthropology and Museum Ethnography<br>University of Oxford</a></div>
+      <div class="profile-links">
+        <a href="mailto:thomas.puschel@anthro.ox.ac.uk" class="btn btn-sm btn-outline-secondary">Email</a>
+        <a href="https://scholar.google.com/citations?hl=en&user=v8oXbxgAAAAJ" target="_blank" class="btn btn-sm btn-outline-secondary">Google Scholar</a>
+        <a href="https://orcid.org/0000-0002-2231-2297" target="_blank" class="btn btn-sm btn-outline-secondary">ORCID</a>
+        <a href="https://github.com/ThomasPueschel" target="_blank" class="btn btn-sm btn-outline-secondary">GitHub</a>
+        <a href="https://www.researchgate.net/profile/Thomas_Pueschel" target="_blank" class="btn btn-sm btn-outline-secondary">ResearchGate</a>
+        <a href="https://twitter.com/ThomasPuschel" target="_blank" class="btn btn-sm btn-outline-secondary">Twitter/X</a>
+      </div>
+    </div>
+    <div class="col-md-8 mt-4 mt-md-0">
+      <h2 class="section-title">Biography</h2>
+      <hr class="section-rule">
+      <p>I am the Wendy James Associate Professor in Evolutionary Anthropology at the School of Anthropology and Museum Ethnography, University of Oxford, as well as Tutorial Fellow at St. Hugh’s College. My main academic interest relates to the study of how and why human and primate bodies have become the way they currently are. To answer this kind of questions, I apply a combination of statistical modelling, 3D morphometrics, virtual biomechanical techniques, computational simulations, phylogenetic comparative methods, and fieldwork. My research has focused on the morphological innovation along the human lineage, primate phylogenetics and adaptive evolution, palaeontological fieldwork in the Rift valley, and the development of new tools to analyse primate form and function in an evolutionary framework.</p>
+      <p>I lead the <a href="https://cea-lab.org" target="_blank">Comparative Evolutionary Anthropology (CEA) group</a> at Oxford. If you are interested in joining the lab, downloading publications or discussing potential collaborations, please explore this website and the lab's. I am also a keen amateur wildlife photographer and a few of my pictures can be found in the gallery below.</p>
+      <a href="https://cea-lab.org" target="_blank" class="btn btn-primary me-2" style="background:var(--blue);border-color:var(--blue);">Visit the CEA Lab</a>
+      <a href="files/CV_TP_2pages.pdf" target="_blank" class="btn btn-outline-secondary">Download CV</a>
+      <div class="row mt-4">
+        <div class="col-md-6">
+          <h4 class="mini-title">Interests</h4>
+          <ul class="plain-list">
+            <li>Evolutionary anthropology</li><li>Primate evolution</li><li>Palaeoanthropology</li><li>Vertebrate palaeontology</li><li>Phylogenetic comparative methods</li><li>Phylogenetics</li><li>Morphometrics</li><li>Biomechanics</li>
+          </ul>
+        </div>
+        <div class="col-md-6">
+          <h4 class="mini-title">Education</h4>
+          <ul class="plain-list edu">
+            <li><strong>PhD in Adaptive Organismal Biology, 2018</strong><br>The University of Manchester</li>
+            <li><strong>MSc in Anatomy and Evolution, 2013</strong><br>The University of York, Hull York Medical School</li>
+            <li><strong>BSc in Biological Anthropology, 2011</strong><br>Universidad de Chile</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+```
+
+## Featured Publications {#featured-publications .section-title}
+<hr class="section-rule">
+
+::: {#featured}
+:::
+
+## Recent Publications {#recent-publications .section-title}
+<hr class="section-rule">
+
+::: {#recent}
+:::
+
+[All publications →](publication/index.qmd){.btn .btn-outline-secondary .btn-sm}
+
+## Research {#research .section-title}
+<hr class="section-rule">
+
+My research is carried out with the [Comparative Evolutionary Anthropology (CEA) group](https://cea-lab.org) at the University of Oxford.
+
+::: {#projects}
+:::
+
+## Experience {#experience .section-title}
+<hr class="section-rule">
+
+```{=html}
+<div class="exp-item">
+  <div class="exp-title">Wendy James Associate Professor in Evolutionary Anthropology</div>
+  <div class="exp-org"><a href="https://www.anthro.ox.ac.uk/" target="_blank">Institute of Human Sciences, School of Anthropology and Museum Ethnography, University of Oxford</a></div>
+  <div class="exp-date">Aug 2023 – Present · Oxford, UK</div>
+  <p>Head of the <a href="https://cea-lab.org" target="_blank">Comparative Evolutionary Anthropology (CEA) group</a>.</p>
+</div>
+<div class="exp-item">
+  <div class="exp-title">Tutorial Fellow</div>
+  <div class="exp-org"><a href="https://www.st-hughs.ox.ac.uk/" target="_blank">St Hugh's College</a></div>
+  <div class="exp-date">Aug 2023 – Present · Oxford, UK</div>
+</div>
+<div class="exp-item">
+  <div class="exp-title">Postdoctoral Researcher – Leverhulme Research Leadership Project</div>
+  <div class="exp-org"><a href="https://www.reading.ac.uk/biologicalsciences/SchoolofBiologicalSciences/Research/sbs-research-ecology.aspx" target="_blank">Ecology and Evolutionary Biology Division, University of Reading</a></div>
+  <div class="exp-date">May 2021 – Jul 2023 · Reading, UK</div>
+  <p>Project: 'The evolutionary and biogeographical routes to hominin diversity.'</p>
+</div>
+<div class="exp-item">
+  <div class="exp-title">Postdoctoral Research Officer – Leverhulme Early Career Fellowship</div>
+  <div class="exp-org"><a href="https://www.anthro.ox.ac.uk/" target="_blank">School of Anthropology and Museum Ethnography, University of Oxford</a></div>
+  <div class="exp-date">Oct 2018 – May 2021 · Oxford, UK</div>
+  <p>Project: 'This study has teeth: exploring human origins and Climate Change through time.'</p>
+</div>
+<div class="exp-item">
+  <div class="exp-title">College advisor</div>
+  <div class="exp-org"><a href="https://www.sant.ox.ac.uk/" target="_blank">St Antony's College</a></div>
+  <div class="exp-date">Oct 2018 – May 2021 · Oxford, UK</div>
+  <p>Pastoral duties at St Antony’s College where I advise students, both at the levels of MSc and DPhil.</p>
+</div>
+<div class="exp-item">
+  <div class="exp-title">Research Officer</div>
+  <div class="exp-org"><a href="https://www.ees.manchester.ac.uk/" target="_blank">The University of Manchester</a></div>
+  <div class="exp-date">Apr 2018 – Sep 2018 · Manchester, UK</div>
+  <p>Postdoctoral position within the NERC project: 'The co-evolution of human hands and tool using behaviour' led by Prof. William Sellers.</p>
+</div>
+```
+
+## Recent Posts {#recent-posts .section-title}
+<hr class="section-rule">
+
+::: {#posts}
+:::
+
+[All posts →](post/index.qmd){.btn .btn-outline-secondary .btn-sm}
+
+## Talks and Media {#talks-media .section-title}
+<hr class="section-rule">
+
+::: {#talks}
+:::
+
+[All talks →](talk/index.qmd){.btn .btn-outline-secondary .btn-sm}
+
+## Gallery {#gallery .section-title}
+<hr class="section-rule">
+
+::: {.photo-grid}
+![](gallery/IMG_3385.jpg){group="gallery" loading="lazy"}
+![](gallery/IMG_3611.jpg){group="gallery" loading="lazy"}
+![](gallery/IMG_4082.jpg){group="gallery" loading="lazy"}
+![](gallery/IMG_4452.jpg){group="gallery" loading="lazy"}
+![](gallery/avatar2.jpg){group="gallery" loading="lazy"}
+![](gallery/bye.jpg){group="gallery" loading="lazy"}
+![](gallery/crooc.jpg){group="gallery" loading="lazy"}
+![](gallery/driving.jpg){group="gallery" loading="lazy"}
+![](gallery/excavando.jpg){group="gallery" loading="lazy"}
+![](gallery/excavando2.jpg){group="gallery" loading="lazy"}
+![](gallery/fcroooooc.jpg){group="gallery" loading="lazy"}
+![](gallery/hippo1.jpg){group="gallery" loading="lazy"}
+![](gallery/hippo2.jpg){group="gallery" loading="lazy"}
+![](gallery/imp.jpg){group="gallery" loading="lazy"}
+![](gallery/kudu.jpg){group="gallery" loading="lazy"}
+![](gallery/liooooon.jpg){group="gallery" loading="lazy"}
+![](gallery/m.jpg){group="gallery" loading="lazy"}
+![](gallery/measuring.jpg){group="gallery" loading="lazy"}
+![](gallery/mercurio.jpg){group="gallery" loading="lazy"}
+![](gallery/milk.jpg){group="gallery" loading="lazy"}
+![](gallery/nyala.jpg){group="gallery" loading="lazy"}
+![](gallery/paleo_lab.jpg){group="gallery" loading="lazy"}
+![](gallery/stork.jpg){group="gallery" loading="lazy"}
+![](gallery/sunday_times.jpg){group="gallery" loading="lazy"}
+![](gallery/sunset1.jpg){group="gallery" loading="lazy"}
+![](gallery/w.jpg){group="gallery" loading="lazy"}
+![](gallery/wa.jpg){group="gallery" loading="lazy"}
+![](gallery/warthi.jpg){group="gallery" loading="lazy"}
+![](gallery/wild.jpg){group="gallery" loading="lazy"}
+:::
+
+## Contact {#contact .section-title}
+<hr class="section-rule">
+
+```{=html}
+<div class="contact-box">
+  <p><strong>Email:</strong> <a href="mailto:thomas.puschel@anthro.ox.ac.uk">thomas.puschel@anthro.ox.ac.uk</a></p>
+  <p><strong>Address:</strong> Institute of Human Sciences, School of Anthropology and Museum Ethnography, University of Oxford · The Pauling Centre, 58a Banbury Rd, Park Town, Oxford, OX2 6QS, UK</p>
+  <p><strong>Lab:</strong> <a href="https://cea-lab.org" target="_blank">Comparative Evolutionary Anthropology (CEA) group</a> · <a href="https://cea-lab.org/opportunities.html" target="_blank">Opportunities to join</a></p>
+</div>
+```
