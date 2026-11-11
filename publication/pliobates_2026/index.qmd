@@ -11,6 +11,7 @@ categories:
 - miocene
 pub-type: Journal article
 doi: 10.1007/s10914-026-09828-0
+image: featured.jpg
 ---
 
 [Online version](https://doi.org/10.1007/s10914-026-09828-0){.btn .btn-sm .btn-outline-primary .me-1 .mb-1}
@@ -18,6 +19,8 @@ doi: 10.1007/s10914-026-09828-0
 ```{=html}
 <div class="pub-altmetric"><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s10914-026-09828-0" data-hide-no-mentions="true" class="altmetric-embed"></div></div>
 ```
+
+![](featured.jpg){.pub-figure .lightbox}
 
 ## Abstract
 
