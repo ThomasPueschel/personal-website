@@ -1,5 +1,8 @@
 ---
 title: ""
+aliases:
+  - /author/thomas-a.-puschel/
+  - /authors/admin/
 page-layout: full
 listing:
   - id: featured

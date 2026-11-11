@@ -1,0 +1,9 @@
+---
+title: "Page not found"
+---
+
+<hr class="section-rule">
+
+The page you were looking for does not exist, or it moved when this website was rebuilt.
+
+[Home](/index.qmd){.btn .btn-outline-primary .me-1} [Publications](/publication/index.qmd){.btn .btn-outline-primary .me-1} [Research](/project/index.qmd){.btn .btn-outline-primary .me-1} [Posts](/post/index.qmd){.btn .btn-outline-primary .me-1} [Talks and Media](/talk/index.qmd){.btn .btn-outline-primary}
