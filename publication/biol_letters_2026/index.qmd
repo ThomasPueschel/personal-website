@@ -11,6 +11,7 @@ categories:
 - comparative methods
 pub-type: Journal article
 doi: 10.1098/rsbl.2026.0371
+image: featured.jpg
 ---
 
 [Online version](https://doi.org/10.1098/rsbl.2026.0371){.btn .btn-sm .btn-outline-primary .me-1 .mb-1}
@@ -18,6 +19,8 @@ doi: 10.1098/rsbl.2026.0371
 ```{=html}
 <div class="pub-altmetric"><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsbl.2026.0371" data-hide-no-mentions="true" class="altmetric-embed"></div></div>
 ```
+
+![](featured.jpg){.pub-figure .lightbox}
 
 ## Abstract
 
